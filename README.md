@@ -128,11 +128,19 @@ chapter 1:
 here we have used gtest to perform the testing, to run it we need to write the cmake file,
 steps to run the tests,
 step 1: to build the CMakeLists.txt file and get the MakeFile
+```bash
 cmake .
+```
+
 step 2: to use the makefile to generate the executable runTests
-make 
+```bash
+make
+```
 step 3: run the executable 
+```bash
 ./runTests
+```
+
 6. version control tool: Git or GitLab
 7. coverage analysis tool : gconv
 
