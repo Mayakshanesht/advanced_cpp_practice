@@ -1,0 +1,22 @@
+// lectutre 2
+Compiler generated functions:
+deafult Constructor
+default initialization and value intialization
+data member initialization:
+member assignment intilization
+member initilizer
+in class initilizer
+copy constructors
+copy assignment operator
+destructors
+value categories
+value references
+forwarding
+move constructors
+move assignment operators
+Rule of five
+rule of zero
+parameter passing
+return value
+return valeu optimization
+

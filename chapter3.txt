@@ -1,0 +1,13 @@
+//chapter 3 Resource management
+Resources
+Types
+Issues
+solution
+object
+Object lifetime
+RAII
+Smart pointers- manage the dynamic memory and release the resource in the dynamic memory allocation
+unique pointers - single pointers
+shared pointers - poinetr shared between muitiple pointers
+make_shared - single memory blcok for all the objects
+make_unique- order of execution of the constructor and function call

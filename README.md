@@ -31,4 +31,20 @@ c++ code
 algorithms
 compiler- -03 flag
 hardware> small angle approximations
+chapter 1:
+1. code editor and debugger: VS code
+2. compiler: g++
+3. build tool: make, which would need the Makefile, to get this we would need the cmake as a configuration tool
+4. configuration tool: cmake, write CMakeLists.txt file
+5. gtest: 
+here we have used gtest to perform the testing, to run it we need to write the cmake file,
+steps to run the tests,
+step 1: to build the CMakeLists.txt file and get the MakeFile
+cmake .
+step 2: to use the makefile to generate the executable runTests
+make 
+step 3: run the executable 
+./runTests
+6. version control tool: Git or GitLab
+7. coverage analysis tool : gconv
 
