@@ -7,6 +7,9 @@ public:
     MyClass() {
         cout << "Default Constructor called!" << endl;
     }
+    ~MyClass() {
+        cout << "Default Destructor called!" << endl;
+    }
 };
 
 int main() {

@@ -35,6 +35,10 @@ int main() {
 
     // Example 2: Using rvalue reference (move semantics)
     Vector obj2 = std::move(createVector(1000000));
+    int a=10;
+    int&& b=std::move(a);
+    cout<<b<<endl;
+  
 
     return 0;
 }
